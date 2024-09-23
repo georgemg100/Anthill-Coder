@@ -3,8 +3,6 @@
 <!-- At first glance, the branding and messaging clearly conveys what to expect -->
 <div align="center">
 
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-elia-5199951b6/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:federico.elia.majo@gmail.com) -->
 
 # Anthill-Coder
 
@@ -28,36 +26,24 @@ Connect with like-minded individuals and get the most out of Antill.
 
 <!-- Strong Call to Action -->
 ### Sign up 👇
-<!-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-)](https://t.me/AIhawkCommunity) -->
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 )](https://t.me/anthillcoder)
-
-
-<!-- 🚀 **Join Our Telegram Community!** 🚀
-
-Join our **Telegram community** for:
-- **Support with AIHawk software**
-- **Share your experiences** with AIhawk and learn from others
-- **Job search tips** and **resume advice**
-- **Idea exchange** and resources for your projects
-
-📲 **[Join now!](https://t.me/AIhawkCommunity)** -->
 
 ## Table of Contents
 
 1. [Introduction](#introduction)
 2. [Features](#features)
-3. [Installation](#installation)
-4. [Configuration](#configuration)
-5. [Usage](#usage)
-6. [Documentation](#Documentation)
-7. [Troubleshooting](#troubleshooting)
-8. [Conclusion](#conclusion)
-9. [Contributors](#contributors)
-10. [License](#license)
-11. [Disclaimer](#Disclaimer)
+3. [Demo](#demo)
+4. [Installation](#installation)
+5. [Configuration](#configuration)
+6. [Usage](#usage)
+7. [Documentation](#Documentation)
+8. [Troubleshooting](#troubleshooting)
+9. [Conclusion](#conclusion)
+10. [Contributors](#contributors)
+11. [License](#license)
+12. [Disclaimer](#Disclaimer)
 
 ## Introduction
 
@@ -88,6 +74,10 @@ Anthill-Coder steps in as a game-changing solution to these challenges. Anthill-
     - Anthill provides realtime feedback on its progress in natural language
 6. **Inference Optimization**
     - Anthill greatest strenth is its ability to optimize inference per token. By breaking the objective into many smaller tasks, it is able to use smaller context windows per task and therefore achieve a higher rate of inference compared to a single context window chat interface
+
+## Demo
+    - Click the below link to see Anthill Coder in action
+    - https://youtu.be/zmBZtUpUpEU
 
 ## Installation
 
