@@ -76,7 +76,7 @@ Anthill-Coder steps in as a game-changing solution to these challenges. Anthill-
     - Anthill greatest strenth is its ability to optimize inference per token. By breaking the objective into many smaller tasks, it is able to use smaller context windows per task and therefore achieve a higher rate of inference compared to a single context window chat interface
 
 ## Demo
-    - Click the below link to see Anthill Coder in action
+    Click the below link to see Anthill Coder in action
     https://youtu.be/zmBZtUpUpEU
 
 ## Installation
